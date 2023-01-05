@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "Name": "siddu",
+      "Roll": "100",
+      "checkin": "10:2",
+      "checkout": "--",
+      "id": 1
+    },
+    {
+      "Name": "manoj",
+      "Roll": "101",
+      "checkin": "10:2",
+      "checkout": "--",
+      "id": 2
+    },
+    {
+      "Name": "hemanth",
+      "Roll": "103",
+      "checkin": "10:2",
+      "checkout": "--",
+      "id": 3
+    },
+    {
+      "Name": "avinash",
+      "Roll": "104",
+      "checkin": "10:2",
+      "checkout": "--",
+      "id": 4
+    },
+    {
+      "Name": "Dhiraj",
+      "Roll": "105",
+      "checkin": "10:3",
+      "checkout": "--",
+      "id": 5
+    },
+    {
+      "Name": "Kishore",
+      "Roll": "106",
+      "checkin": "10:3",
+      "checkout": "--",
+      "id": 6
+    }
+  ]
+}
